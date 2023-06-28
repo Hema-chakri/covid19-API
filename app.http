@@ -1,6 +1,6 @@
 POST http://localhost:3000/login/
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNjg3NzY1MzAyfQ.YvlH47lsItS4KEKJlbUqvwfStB6QKV9GPKLJOsta9M4
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNjg3OTMzNTY1fQ.4Aq8_2Mvvo8cEyIaEdamJbxzRAy9o1t48TTnNsYveqU
 
 {
     "username": "christopher_phillips",
@@ -45,3 +45,6 @@ Content-Type: application/json
     "active": 3000,
     "deaths": 104
 }
+
+###
+GET http://localhost:3000/states/3/stats/
