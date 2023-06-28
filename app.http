@@ -1,6 +1,6 @@
 POST http://localhost:3000/login/
 Content-Type: application/json
-Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNjg3OTMzNTY1fQ.4Aq8_2Mvvo8cEyIaEdamJbxzRAy9o1t48TTnNsYveqU
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNjg3OTMzNjYxfQ.qC-jB2dNDHfmn3a8HqejJSMHp0cqdYf2MtWqeyfOtdA
 
 {
     "username": "christopher_phillips",
